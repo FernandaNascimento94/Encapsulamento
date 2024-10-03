@@ -1,0 +1,4 @@
+C:\Users\aluno.cad\Desktop\Fernanda Nascimento\Aula 03.10\Aula 03.10\obj\Debug\net8.0\Aula 03.10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno.cad\Desktop\Fernanda Nascimento\Aula 03.10\Aula 03.10\obj\Debug\net8.0\Aula 03.10.AssemblyInfoInputs.cache
+C:\Users\aluno.cad\Desktop\Fernanda Nascimento\Aula 03.10\Aula 03.10\obj\Debug\net8.0\Aula 03.10.AssemblyInfo.cs
+C:\Users\aluno.cad\Desktop\Fernanda Nascimento\Aula 03.10\Aula 03.10\obj\Debug\net8.0\Aula 03.10.csproj.CoreCompileInputs.cache
